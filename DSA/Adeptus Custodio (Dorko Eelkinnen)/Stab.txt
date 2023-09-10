@@ -1,0 +1,44 @@
+Magierstab von Adeptus Custodio, Dorko Eelkinnen.
+Aktivierungsprobe: Ritualkenntnis (MU/IN/KL) (+Komplexität des Zaubers (A = 1; B = 2))(+Anzahl der weiteren Zaubersprüche)
+
+###############
+
+Schublade von 10AsP:
+Inhalt: Attributo auf KK (Schnellsteigerung), 14 über.
+Wirkung: Steigert die KK des Berührten um 14 Punkte für 17 KR
+Zauberinfo für alle Fälle: Liber S.30
+
+###############
+
+Schublade von 10AsP:	LEER!
+Inhalt: Attributo auf KO (Schnellsteigerung), 14 über.
+Wirkung: Steigert die KO des Berührten um 14 Punkte für 17 KR,
+Zauberinfo für alle Fälle: Liber S.30
+
+###############
+
+Schublade von 20AsP:
+Inhalt: Schwarz & Rot, 10 über.
+Wirkung: 5 LeP/Stunde SP, insgesamt folgender Verlust: KO-2, KK-1, GE-1, FF-1. Für 7 Stunden. Danach 1 SR bewusstlos.
+Zauberinfo für alle Fälle: Liber S.232
+
+###############
+
+Schublade von 31Asp:
+Inhalt: Ignifaxius (Enger Strahl), 10 über. (Gewürfelt: 6 6 6 6 5 3)
+Wirkung: 32 SP. Pro KO/2-2 SP eine Wunde. 
+Zauberinfo für alle Fälle: Liber S.122
+
+###############
+
+Schublade von 15 AsP:
+Inhalt: Transversalis Teleport
+Wirkung: Teleportiert sich selbst 6 Meilen weit; Muss an dem Ort schonmal gewesen sein.
+Zauberinfo für alle Fälle:  Liber S.262
+
+###############
+
+Schublade von 14 AsP:
+Inhalt: Axxeleratus Blitzgeschwind, 1 über
+Wirkung: Parade-Basis & Nahkampf-TP +2, Automatische Wirkung einer 2er Finte, GS, INI-Basis & Athletik-TaW verdoppelt, Schnellziehen und Schnellladen geschenkt. 6 KR.
+Zauberinfo für alle Fälle: 36
