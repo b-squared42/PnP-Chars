@@ -1,0 +1,598 @@
+{
+  "clientVersion": "1.5.1",
+  "dateCreated": "2023-03-16T17:43:03.080Z",
+  "dateModified": "2023-03-22T18:15:48.340Z",
+  "id": "H_1679416605022",
+  "phase": 3,
+  "locale": "de-DE",
+  "name": "Fukano Rakan",
+  "avatar": "data:image/jpg;base64,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",
+  "ap": {
+    "total": 1347
+  },
+  "el": "EL_7",
+  "r": "R_1",
+  "rv": "RV_1",
+  "c": "C_6",
+  "p": "P_13",
+  "pv": "PV_44",
+  "sex": "m",
+  "pers": {
+    "placeofbirth": "Tuzak",
+    "age": "26",
+    "haircolor": 16,
+    "eyecolor": 4,
+    "size": "175",
+    "weight": "79",
+    "socialstatus": 2,
+    "characteristics": "Redseelig, Ungeduldig",
+    "otherinfo": "Olivgrüne Haut, mandelförmige Augen, Man Bun, Kegelhut, Herbstfarbene/rot-orange Tuchrüstung. Linke Hand immer am unteren Griff. Tattoo auf linker Seite des Rückens.",
+    "cultureAreaKnowledge": "Maraskan"
+  },
+  "attr": {
+    "values": [
+      {
+        "id": "ATTR_8",
+        "value": 13
+      },
+      {
+        "id": "ATTR_7",
+        "value": 13
+      },
+      {
+        "id": "ATTR_3",
+        "value": 15
+      },
+      {
+        "id": "ATTR_6",
+        "value": 15
+      },
+      {
+        "id": "ATTR_4",
+        "value": 14
+      },
+      {
+        "id": "ATTR_2",
+        "value": 11
+      },
+      {
+        "id": "ATTR_1",
+        "value": 14
+      },
+      {
+        "id": "ATTR_5",
+        "value": 10
+      }
+    ],
+    "attributeAdjustmentSelected": "ATTR_6",
+    "ae": 0,
+    "kp": 0,
+    "lp": 0,
+    "permanentAE": {
+      "lost": 0,
+      "redeemed": 0
+    },
+    "permanentKP": {
+      "lost": 0,
+      "redeemed": 0
+    },
+    "permanentLP": {
+      "lost": 0
+    }
+  },
+  "activatable": {
+    "ADV_18": [],
+    "ADV_47": [
+      {
+        "sid": "CT_12"
+      }
+    ],
+    "ADV_44": [
+      {
+        "tier": 1
+      }
+    ],
+    "ADV_40": [
+      {}
+    ],
+    "ADV_15": [
+      {
+        "tier": 1
+      }
+    ],
+    "ADV_13": [
+      {
+        "tier": 2
+      }
+    ],
+    "ADV_9": [
+      {}
+    ],
+    "ADV_0": [
+      {
+        "sid": "Immunität (Sumpffieber)"
+      }
+    ],
+    "DISADV_5": [],
+    "DISADV_7": [
+      {
+        "sid": 3
+      }
+    ],
+    "DISADV_35": [
+      {}
+    ],
+    "DISADV_36": [
+      {
+        "sid": 19
+      }
+    ],
+    "DISADV_0": [
+      {
+        "cost": 7,
+        "sid": "Ungeduldig"
+      }
+    ],
+    "DISADV_40": [],
+    "DISADV_48": [],
+    "DISADV_49": [],
+    "DISADV_14": [],
+    "DISADV_51": [],
+    "DISADV_12": [],
+    "DISADV_4": [],
+    "SA_29": [
+      {
+        "sid": 8,
+        "tier": 4
+      },
+      {
+        "sid": 23,
+        "tier": 2
+      }
+    ],
+    "SA_27": [
+      {
+        "sid": 9
+      },
+      {
+        "sid": 14
+      }
+    ],
+    "SA_9": [
+      {
+        "sid2": 1,
+        "sid": "TAL_35"
+      }
+    ],
+    "SA_48": [
+      {}
+    ],
+    "SA_40": [
+      {}
+    ],
+    "SA_41": [
+      {
+        "tier": 1
+      }
+    ],
+    "SA_67": [
+      {
+        "tier": 1
+      }
+    ],
+    "SA_1009": [
+      {}
+    ],
+    "SA_181": [
+      {}
+    ],
+    "SA_204": [
+      {}
+    ],
+    "SA_219": [
+      {}
+    ],
+    "SA_160": [
+      {}
+    ],
+    "SA_51": [
+      {
+        "tier": 1
+      }
+    ],
+    "SA_58": [
+      {
+        "tier": 1
+      }
+    ]
+  },
+  "talents": {
+    "TAL_4": 6,
+    "TAL_5": 3,
+    "TAL_8": 4,
+    "TAL_14": 5,
+    "TAL_20": 3,
+    "TAL_21": 3,
+    "TAL_35": 7,
+    "TAL_40": 6,
+    "TAL_46": 3,
+    "TAL_50": 4,
+    "TAL_34": 3,
+    "TAL_47": 4,
+    "TAL_27": 5,
+    "TAL_28": 2,
+    "TAL_29": 3,
+    "TAL_13": 8,
+    "TAL_30": 5,
+    "TAL_3": 8,
+    "TAL_7": 4,
+    "TAL_10": 5,
+    "TAL_11": 3,
+    "TAL_12": 1,
+    "TAL_15": 5,
+    "TAL_16": 2,
+    "TAL_17": 3,
+    "TAL_19": 7,
+    "TAL_22": 2,
+    "TAL_23": 5,
+    "TAL_24": 5,
+    "TAL_26": 3,
+    "TAL_31": 6,
+    "TAL_32": 3,
+    "TAL_33": 2,
+    "TAL_42": 2,
+    "TAL_44": 3,
+    "TAL_45": 2,
+    "TAL_48": 1,
+    "TAL_51": 1,
+    "TAL_52": 2,
+    "TAL_54": 4,
+    "TAL_57": 2
+  },
+  "ct": {
+    "CT_12": 16,
+    "CT_9": 10,
+    "CT_16": 14,
+    "CT_1": 8
+  },
+  "spells": {},
+  "cantrips": [],
+  "liturgies": {},
+  "blessings": [],
+  "belongings": {
+    "items": {
+      "ITEM_1": {
+        "id": "ITEM_1",
+        "name": "Tuzakmesser",
+        "gr": 1,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 1.75,
+        "price": 360,
+        "at": 0,
+        "damageDiceNumber": 1,
+        "damageFlat": 6,
+        "length": 130,
+        "pa": 0,
+        "combatTechnique": "CT_16",
+        "damageDiceSides": 6,
+        "reach": 2,
+        "template": "ITEMTPL_51",
+        "primaryThreshold": {
+          "threshold": 14
+        },
+        "isParryingWeapon": false,
+        "isTwoHandedWeapon": true
+      },
+      "ITEM_2": {
+        "id": "ITEM_2",
+        "name": "Nachtwind",
+        "gr": 1,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 1.75,
+        "price": 250,
+        "at": 0,
+        "damageDiceNumber": 1,
+        "damageFlat": 4,
+        "length": 100,
+        "pa": 0,
+        "combatTechnique": "CT_12",
+        "damageDiceSides": 6,
+        "reach": 2,
+        "template": "ITEMTPL_455",
+        "primaryThreshold": {
+          "threshold": 15
+        },
+        "isParryingWeapon": false,
+        "isTwoHandedWeapon": false
+      },
+      "ITEM_3": {
+        "id": "ITEM_3",
+        "name": "Geldbeutel",
+        "gr": 10,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.05,
+        "price": 1,
+        "stp": 2,
+        "template": "ITEMTPL_200"
+      },
+      "ITEM_4": {
+        "id": "ITEM_4",
+        "name": "Gürteltasche",
+        "gr": 10,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.25,
+        "price": 4,
+        "stp": 3,
+        "template": "ITEMTPL_202"
+      },
+      "ITEM_5": {
+        "id": "ITEM_5",
+        "name": "Lederrucksack",
+        "gr": 10,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 2,
+        "price": 34,
+        "stp": 8,
+        "template": "ITEMTPL_205"
+      },
+      "ITEM_6": {
+        "id": "ITEM_6",
+        "name": "Wasserschlauch",
+        "gr": 10,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.25,
+        "price": 5.5,
+        "stp": 5,
+        "template": "ITEMTPL_216"
+      },
+      "ITEM_7": {
+        "id": "ITEM_7",
+        "name": "Fackel",
+        "gr": 8,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.5,
+        "price": 0.5,
+        "at": -1,
+        "damageDiceNumber": 1,
+        "length": 40,
+        "pa": -2,
+        "stp": 20,
+        "combatTechnique": "CT_5",
+        "damageDiceSides": 6,
+        "reach": 2,
+        "template": "ITEMTPL_182",
+        "imp": 1,
+        "primaryThreshold": {
+          "threshold": 14
+        }
+      },
+      "ITEM_8": {
+        "id": "ITEM_8",
+        "name": "Feuerstein und Stahl",
+        "gr": 8,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.25,
+        "price": 3,
+        "stp": [
+          4,
+          12
+        ],
+        "template": "ITEMTPL_188"
+      },
+      "ITEM_9": {
+        "id": "ITEM_9",
+        "name": "Würfel, sechsseitig",
+        "gr": 24,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.05,
+        "price": 0.5,
+        "stp": 5,
+        "template": "ITEMTPL_360"
+      },
+      "ITEM_10": {
+        "id": "ITEM_10",
+        "name": "Würfel, zwanzigseitig",
+        "gr": 24,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.06,
+        "price": 3,
+        "stp": 6,
+        "template": "ITEMTPL_437"
+      },
+      "ITEM_11": {
+        "id": "ITEM_11",
+        "name": "Hemd",
+        "gr": 6,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.5,
+        "price": 3,
+        "template": "ITEMTPL_100"
+      },
+      "ITEM_12": {
+        "id": "ITEM_12",
+        "name": "Hose mit Hosentasche",
+        "gr": 6,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.75,
+        "price": 3,
+        "template": "ITEMTPL_102"
+      },
+      "ITEM_13": {
+        "id": "ITEM_13",
+        "name": "Kapuzenumhang",
+        "gr": 6,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 2,
+        "price": 6,
+        "template": "ITEMTPL_105"
+      },
+      "ITEM_15": {
+        "id": "ITEM_15",
+        "name": "Lederstiefel",
+        "gr": 6,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 1,
+        "price": 12,
+        "template": "ITEMTPL_115"
+      },
+      "ITEM_16": {
+        "id": "ITEM_16",
+        "name": "Angel mit Angelschnur",
+        "gr": 7,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.5,
+        "price": 3,
+        "template": "ITEMTPL_143"
+      },
+      "ITEM_17": {
+        "id": "ITEM_17",
+        "name": "Becher",
+        "gr": 7,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 0.1,
+        "price": 0.3,
+        "template": "ITEMTPL_144"
+      },
+      "ITEM_18": {
+        "id": "ITEM_18",
+        "name": "Hängematte",
+        "gr": 7,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 2,
+        "price": 2,
+        "template": "ITEMTPL_156"
+      },
+      "ITEM_19": {
+        "id": "ITEM_19",
+        "name": "Schlafsack",
+        "gr": 7,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 2,
+        "price": 7,
+        "stp": 7,
+        "template": "ITEMTPL_172"
+      },
+      "ITEM_20": {
+        "id": "ITEM_20",
+        "name": "Kletterseil, pro Schritt",
+        "gr": 11,
+        "amount": 2,
+        "isTemplateLocked": true,
+        "weight": 0.5,
+        "price": 0.3,
+        "stp": 5,
+        "template": "ITEMTPL_219"
+      },
+      "ITEM_21": {
+        "id": "ITEM_21",
+        "name": "Schwertscheide",
+        "gr": 5,
+        "amount": 2,
+        "isTemplateLocked": true,
+        "weight": 0.75,
+        "price": 12,
+        "template": "ITEMTPL_91"
+      },
+      "ITEM_22": {
+        "id": "ITEM_22",
+        "name": "Waffenpflegeset (Schleifstein, Tücher)",
+        "gr": 5,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 1,
+        "price": 1,
+        "template": "ITEMTPL_93"
+      },
+      "ITEM_23": {
+        "id": "ITEM_23",
+        "name": "Tuchrüstung",
+        "gr": 4,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "weight": 3,
+        "price": 75,
+        "enc": 1,
+        "pro": 2,
+        "template": "ITEMTPL_473",
+        "armorType": 3
+      },
+      "ITEM_24": {
+        "id": "ITEM_24",
+        "name": "Wirselkraut",
+        "gr": 22,
+        "amount": 1,
+        "isTemplateLocked": true,
+        "price": 2.2,
+        "template": "ITEMTPL_316"
+      },
+      "ITEM_25": {
+        "id": "ITEM_25",
+        "name": "Kegelhut",
+        "gr": 6,
+        "amount": 1,
+        "isTemplateLocked": false,
+        "weight": 0.25,
+        "price": 4,
+        "where": "Kopf"
+      },
+      "ITEM_26": {
+        "id": "ITEM_26",
+        "name": "Statue von Ror",
+        "gr": 29,
+        "amount": 1,
+        "isTemplateLocked": false
+      },
+      "ITEM_27": {
+        "id": "ITEM_27",
+        "name": "Statue von Gror",
+        "gr": 29,
+        "amount": 1,
+        "isTemplateLocked": false
+      }
+    },
+    "armorZones": {
+      "ARMORZONES_1": {
+        "id": "ARMORZONES_1",
+        "name": "Tuchrüstung",
+        "head": "ITEMTPL_473",
+        "leftArm": "ITEMTPL_473",
+        "rightArm": "ITEMTPL_473",
+        "torso": "ITEMTPL_473",
+        "leftLeg": "ITEMTPL_473",
+        "rightLeg": "ITEMTPL_473"
+      }
+    },
+    "purse": {
+      "d": "",
+      "s": "",
+      "h": "",
+      "k": ""
+    }
+  },
+  "rules": {
+    "higherParadeValues": 0,
+    "attributeValueLimit": false,
+    "enableAllRuleBooks": true,
+    "enabledRuleBooks": [],
+    "enableLanguageSpecializations": false
+  },
+  "pets": {}
+}
