@@ -32,3 +32,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Mac file thingies
+.DS_Store
